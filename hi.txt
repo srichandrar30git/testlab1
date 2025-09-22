@@ -1,1 +1,8 @@
 heloo people!
+echo "# 661p_selab1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/srichandrar30git/661p_selab1.git
+git push -u origin main
